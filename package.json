@@ -1,5 +1,5 @@
 {
-  "name": "npat",
+  "name": "wordmix",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harsh-govind/random-words.git"
+    "url": "git+https://github.com/harsh-govind/wordmix.git"
   },
   "keywords": [],
   "author": "Harsh Govind",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/harsh-govind/random-words/issues"
+    "url": "https://github.com/harsh-govind/wordmix/issues"
   },
-  "homepage": "https://github.com/harsh-govind/random-words#readme",
+  "homepage": "https://github.com/harsh-govind/wordmix#readme",
   "dependencies": {
     "unique-names-generator": "^4.7.1"
   }
