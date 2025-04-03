@@ -1,0 +1,23 @@
+{
+  "name": "npat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-govind/random-words.git"
+  },
+  "keywords": [],
+  "author": "Harsh Govind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh-govind/random-words/issues"
+  },
+  "homepage": "https://github.com/harsh-govind/random-words#readme",
+  "dependencies": {
+    "unique-names-generator": "^4.7.1"
+  }
+}
